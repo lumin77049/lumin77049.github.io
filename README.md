@@ -1,4 +1,4 @@
-# For now, A test site.
+# For now, a test site.
 for now this repo is just somewhere for me to mess with github pages and
 web-dev as a whole. Honestly It's only public becuase github's docs on pages
 said it had to be to work (although I'm yet to test that).
